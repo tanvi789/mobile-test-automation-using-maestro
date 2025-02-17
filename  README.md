@@ -15,3 +15,7 @@ Android
 - cd ./app_apk_ipa
 - adb install sample.apk
 - maestro test android-flow.yaml
+
+
+Refer 
+- https://github.com/mobile-dev-inc/maestro-docs/tree/main/api-reference/commands
